@@ -1,5 +1,6 @@
 #include <conio.h>
 int main() {
-	printf("Hello world!");
+	int i;
+	printf("Hello world! %i", i);
 	return 0;
 }
