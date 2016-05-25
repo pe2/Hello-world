@@ -6,4 +6,5 @@ int main() {
 		printf("j = %i", j);
 	}
 	return 0;
+	printf("Update hello-world.c");
 }
